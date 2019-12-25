@@ -1,4 +1,3 @@
-import React from "react";
 import axios from "axios";
 const KEY = "AIzaSyBmUuebjjFKzsgKZ8nuaf90VN1Fsscs-Ek";
 
